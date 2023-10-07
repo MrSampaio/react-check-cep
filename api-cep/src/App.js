@@ -10,7 +10,7 @@ function App() {
   let [input, setInput] = useState(""); // define estado do input como vazio e recebe valor digitado
   let [cepInfos, setCEP] = useState({}); // define valor da variável como vazio e recebe objeto com retorno da api
   let [err, setErr] = useState(""); // define variávelo de erro com vazio para receber erros de validações e imprimir na tela
-  let [loading, setLoading] = useState(false); // setando variável loading como falso
+  let [loading, setLoading] = useState(false); // setando variável loading como falso para exibir tela de carregamento futuramente
 
   const handleClickEnter = (event) => { // prevenção de clique no Enter e reload da página
     if (event.key === "Enter") {
