@@ -33,6 +33,6 @@ Exercendo consumo da API viacep aplicada em Reactjs, o site verifica a existênc
 <img src="https://github.com/MrSampaio/react-check-cep/assets/118141328/aeb0b596-459c-4b78-8417-40a5fbd4f4e7">
 <br>
 <br>
-<p>Site construído utilizando bibiliotecas Reactjs, Nodejs, Axios, JavaScript, HTML e CSS.</p>
+<p>Site construído utilizando bibliotecas Reactjs, Nodejs, Axios, JavaScript, HTML e CSS.</p>
 <br>
 <p>Projeto inteiramente feito por mim. Obrigado por ler até aqui! :^)</p>
