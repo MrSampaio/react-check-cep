@@ -16,31 +16,23 @@ Exercendo consumo da API viacep aplicada em Reactjs, o site verifica a existênc
 <br>
 <br>
 <h2>Validações e mensagens de erro</h2>
-<p>Obviamente, todo esse fluxo de informações e atualizações de registros não pode ocorrer sem nenhuma verificação ou validação. Por isso, o sistema possui diversas validações em todas as três páginas, moderando o fluxo de dados e envio de registros maliciosos ao banco de dados. Algumas das validações presentes nas páginas, são: </p>
+<p>O sistema possui três validações fundamentais e simples:</p>
 <br>
-<li>Validações da página principal</li>
+<li>Validação de quantidade de números digitados:</li>
 <br>
-<img src="https://github.com/MrSampaio/register-php/assets/118141328/d5d398bc-53b8-4bd9-9b4f-4b87cda1e6e7">
-<img src="https://github.com/MrSampaio/register-php/assets/118141328/ed699e1a-8c9c-4cd1-8161-1f123bcdeafb">
-<br>
-<br>
-<li>Validações da página de login</li>
-<br>
-<img src="https://github.com/MrSampaio/register-php/assets/118141328/0d0ebedc-0082-4f5c-9b89-d69660c117e8">
-<img src="https://github.com/MrSampaio/register-php/assets/118141328/0f4ced38-d022-4768-b25d-ee98e8f7db61">
+<img src="https://github.com/MrSampaio/react-check-cep/assets/118141328/d5a0eb6f-cab4-4ed6-b9b6-aae70fd0dd73">
 <br>
 <br>
-<li>Validações da página home</li>
+<li>Validação cep inexistente:</li>
 <br>
-<img src="https://github.com/MrSampaio/register-php/assets/118141328/90457ac2-80a7-4130-a94a-b9c3e04d9b69">
-<img src="https://github.com/MrSampaio/register-php/assets/118141328/0452ebe7-43a1-46ff-bf8b-4a37af037575">
+<img src="https://github.com/MrSampaio/react-check-cep/assets/118141328/92803509-73df-46d7-b9c6-e2f92421578e">
 <br>
 <br>
-
-<p>O sistema foi feito utilizando HTML, CSS e JavaScript para o Front-end, enquanto o Back-end foi totalmente aplicado com PHP, desde a validação dos formulários até o gerenciamento de sessões e conexão com o banco de dados.</p>
+<li>Retorno de erro da API por try catch:</li>
 <br>
-<p>Projeto Full-Stack feito por mim, tendo em mente o aprendizado de ligação de databases com PHP e implementação de diversas linguagens em um mesmo projeto.</p>
+<img src="https://github.com/MrSampaio/react-check-cep/assets/118141328/aeb0b596-459c-4b78-8417-40a5fbd4f4e7">
 <br>
-<p>Obrigado por ter lido até aqui! :)</p>
-
-
+<br>
+<p>Site construído utilizando bibiliotecas Reactjs, Nodejs, Axios, JavaScript, HTML e CSS.</p>
+<br>
+<p>Projeto inteiramente feito por mim. Obrigado por ler até aqui! :^)</p>
