@@ -1,6 +1,5 @@
 # react-check-cep
 Exercendo consumo da API viacep aplicada em Reactjs, o site verifica a existência do CEP e retorna suas informações.
-
 <h2>Index(Página de consulta)</h2>
 <br>
 <img src="https://github.com/MrSampaio/react-check-cep/assets/118141328/e77a704f-6ce9-4a6e-8830-1fc3212594dc"> 
